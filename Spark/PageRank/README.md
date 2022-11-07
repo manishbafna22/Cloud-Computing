@@ -1,1 +1,1 @@
-[I'm an inline-style link with title]([https://docs.google.com/presentation/d/16M9oAx9X6uHriPso3wUpw2OS7dNNsCFcd1_WSz2MZ20/edit?usp=sharing "Page Rank on GCP using Scala"](https://docs.google.com/presentation/d/1HhdHm3xLnbvNCE73Rm7DjDtdfCpEoQOFnHsdnVOcSwo/edit?usp=sharing))
+[I'm an inline-style link](https://docs.google.com/presentation/d/1HhdHm3xLnbvNCE73Rm7DjDtdfCpEoQOFnHsdnVOcSwo/edit?usp=sharing)
